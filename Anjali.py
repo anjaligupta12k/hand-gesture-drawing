@@ -1,0 +1,1 @@
+print("AI Hand Drawing Project Started!")

@@ -1,0 +1,4 @@
+venv/
+*.task
+__pycache__/
+recording.mp4
